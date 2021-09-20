@@ -11,7 +11,7 @@ humandate: "Sept 29-Oct 1st, 2021"    # human-readable dates for the workshop (e
 humantime: "09:00 am - 5.00 pm and 09:00-12:00 BST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2021-09-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-10-01        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Graham Van Goffrier", "David Pérez-Suárez", "Alessandro Felder"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Haroon Chughtai", "Graham Van Goffrier", "David Pérez-Suárez", "Alessandro Felder"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Matthew Cheng", "David Cooke", "Tom Couch", "Edd Edmondson", "Matthew Gillman", "Matt Graham", "Max Hipperson", "Sarah Jaffa", "Ishan Khurana", "Toni Mlinarevic", "Aasiyah Rashan", "Artur Sztuc", "Sam van Stroud"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["m.gillman@ucl.ac.uk","d.perez-suarez@ucl.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/UCL-CDT-online-autumn-2021  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
