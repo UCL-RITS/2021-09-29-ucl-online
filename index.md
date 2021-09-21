@@ -8,7 +8,7 @@ address: "online"      # full street address of workshop (e.g., "Room A, 123 For
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 humandate: "Sept 29-Oct 1st, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "09:00 am - 5.00 pm and 09:00-12:00 BST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "09:00 am - 5.00 pm and 10:00 am - 1:00 pm BST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2021-09-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-10-01        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Haroon Chughtai", "Graham Van Goffrier", "David Pérez-Suárez", "Alessandro Felder"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
