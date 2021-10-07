@@ -30,6 +30,9 @@ if you are teaching Git,
 please [create a separate repository](#setting-up-a-separate-repository-for-learners)
 for your learners to practice in.
 
+## Collaborative notes for this workshop
+[Collaborative home](./collab-notes/collab-home.html)
+
 ## Video Tutorial
 
 There is a [YouTube video](https://www.youtube.com/watch?v=_Ag1JiZzyUQ) that demonstrates how to
